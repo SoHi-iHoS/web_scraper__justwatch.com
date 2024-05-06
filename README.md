@@ -10,25 +10,25 @@ JustWatch is a popular platform that allows users to search for movies and TV sh
   Use BeautifulSoup to scrape the following data from JustWatch:
 
   **a. Movie Information:**
-    *  Movie title \n
-    * Release year \n
-    * Genre
-    * IMDb rating
-    * Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
-    * URL to the movie page on JustWatch
+      * Movie title \n
+      * Release year \n
+      * Genre
+      * IMDb rating
+      * Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
+      * URL to the movie page on JustWatch
   
   **b. TV Show Information:**
-    * TV show title
-    * Release year
-    * Genre
-    * IMDb rating
-    * Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
-    * URL to the TV show page on JustWatch
+      * TV show title
+      * Release year
+      * Genre
+      * IMDb rating
+      * Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
+      * URL to the TV show page on JustWatch
       
   **c. Scope:**
-     * Scrape data for at least 50 movies and 50 TV shows.
-     * You can choose the entry point (e.g., starting with popular movies,
-       or a specific genre, etc.) to ensure a diverse dataset.`
+       * Scrape data for at least 50 movies and 50 TV shows.
+       * You can choose the entry point (e.g., starting with popular movies,
+         or a specific genre, etc.) to ensure a diverse dataset.`
 
 ## Data Filtering & Analysis:
   After scraping the data, use Pandas to perform the following tasks:
@@ -43,7 +43,7 @@ JustWatch is a popular platform that allows users to search for movies and TV sh
      * Determine the streaming service with the most significant number of offerings.
    
 ## Data Export:
-    * Dump the filtered and analysed data into a CSV file for further processing and reporting.
+Dump the filtered and analysed data into a CSV file for further processing and reporting.
 
 # Note:
 The respo. contains the following files:
