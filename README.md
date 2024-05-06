@@ -2,35 +2,33 @@
 
 * Website: https://www.justwatch.com/in/movies?release_year_from=2000
 
-Description:
+# Description:
 JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. For this assignment, you will be required to scrape movie and TV show data from JustWatch using Selenium, Python, and BeautifulSoup. Extract data from HTML, not by directly calling their APIs. Then, perform data filtering and analysis using Pandas, and finally, save the results to a CSV file.
 
-Tasks:
-1. Web Scraping:
+# Tasks:
+* 1. Web Scraping:
+  Use BeautifulSoup to scrape the following data from JustWatch:
 
-Use BeautifulSoup to scrape the following data from JustWatch:
-
-a. Movie Information:
-
-  - Movie title
-  - Release year
-  - Genre
-  - IMDb rating
-  - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
-  - URL to the movie page on JustWatch
-b. TV Show Information:
-
-  - TV show title
-  - Release year
-  - Genre
-  - IMDb rating
-  - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
-  - URL to the TV show page on JustWatch
-c. Scope:
-
- ` - Scrape data for at least 50 movies and 50 TV shows.
-   - You can choose the entry point (e.g., starting with popular movies,
-     or a specific genre, etc.) to ensure a diverse dataset.`
+  a. Movie Information:
+    - Movie title
+    - Release year
+    - Genre
+    - IMDb rating
+    - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
+    - URL to the movie page on JustWatch
+  
+  b. TV Show Information:
+    - TV show title
+    - Release year
+    - Genre
+    - IMDb rating
+    - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
+    - URL to the TV show page on JustWatch
+      
+  c. Scope:
+     - Scrape data for at least 50 movies and 50 TV shows.
+     - You can choose the entry point (e.g., starting with popular movies,
+       or a specific genre, etc.) to ensure a diverse dataset.`
 
 2. Data Filtering & Analysis:
 
