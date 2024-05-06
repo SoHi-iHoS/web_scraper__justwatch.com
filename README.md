@@ -10,8 +10,8 @@ JustWatch is a popular platform that allows users to search for movies and TV sh
   Use BeautifulSoup to scrape the following data from JustWatch:
 
   **a. Movie Information:**
-    *  Movie title
-    * Release year
+    *  Movie title \n
+    * Release year \n
     * Genre
     * IMDb rating
     * Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
